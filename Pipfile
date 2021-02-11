@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+colorama = "==0.4.4"
+datatypes = "==0.0.21"
+decorators = "==2.0.7"
+docstring-parser = "==0.7.3"
+endpoints = "==3.7.0"
+jdcal = "==1.4.1"
+openpyxl = "==3.0.5"
+python-pdf = "==0.37"
+utils = "==1.0.1"
+et_xmlfile = "==1.0.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
